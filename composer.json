@@ -1,0 +1,18 @@
+{
+    "name": "developer/crud",
+    "description": "crud project setup in core php",
+    "autoload": {
+        "psr-4": {
+            "Developer\\Crud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sunny Kumar",
+            "email": "157090514+sunnyhelpful@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.2"
+    }
+}
